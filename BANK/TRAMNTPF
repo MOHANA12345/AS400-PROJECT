@@ -1,0 +1,11 @@
+     A          R TRANSREC                                                  
+     A            TRNNUM         6P 0       DFT(20000)                      
+     A                                      COLHDG('TRANSACTION NO')        
+     A            TRADAT          L         COLHDG('TRANSACTION DATE')      
+     A            TRNAMT        15P 2       COLHDG('TRANSACTION AMT')       
+     A            TRATYE         1A         VALUES('D' 'W' 'E' 'F' 'O' 'L') 
+     A                                      COLHDG('TRANSACTION TYPE')      
+     A            ACCNO#         5P 0       COLHDG('ACCOUNT NUMBER')        
+     A            ACCSTS         1A         COLHDG('ACCOUNT STATUS')        
+     A          K TRNNUM                                                    
+     A          K ACCNO#                                                    
