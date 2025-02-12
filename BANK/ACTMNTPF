@@ -1,0 +1,7 @@
+     A          R ACNTREC                                               
+     A            ACCNUM         5P 0       DFT(10000)                  
+     A            CUSNAM        25A                                     
+     A            OPNDAT          L                                     
+     A            BALANC        10P 2       DFT(0)                      
+     A            ACCSTS         1A         DFT('A') VALUES('A' 'I')    
+     A          K ACCNUM                                                
